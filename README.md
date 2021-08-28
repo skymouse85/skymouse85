@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skymouse85
+- Hello! I'm Mark Clifford
 - 👀 I’m interested in learning how to use JavaScript and Python to create musical applications and software.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on just about anything.
