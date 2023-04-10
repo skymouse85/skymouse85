@@ -1,4 +1,4 @@
-- Hello! I'm Mark Clifford
+- Hello! I'm Mark Pascucci-Clifford
 - 👀 I’m interested in using JavaScript to create musical applications and software.
 - 🌱 I’m a graduate of Nucamp's Full Stack Web and Mobile App development coding camp. 
 - 💞️ I’m looking to collaborate on just about anything.
