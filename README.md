@@ -1,6 +1,6 @@
 - Hello! I'm Mark Clifford
-- 👀 I’m interested in learning how to use JavaScript and Python to create musical applications and software.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in using JavaScript to create musical applications and software.
+- 🌱 I’m a graduate of Nucamp's Full Stack Web and Mobile App development coding camp. 
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me: marklearninglanguage@gmail.com
 
